@@ -179,6 +179,7 @@ block.10233-10336.properties:
 - Glowing Raw Copper Blocks Non-Full Blocks (Modded Block)
 - Glowing Ores Copper
 - Glowing Ores Copper Non-Full Block (Modded Only)
+- Copper Chains
 - Copper Full Blocks
 - Copper Non-Full Blocks
 - Copper Slabs and Stairs
