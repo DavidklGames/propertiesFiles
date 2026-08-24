@@ -179,7 +179,7 @@ block.10233-10336.properties:
 - Glowing Raw Copper Blocks Non-Full Blocks (Modded Block)
 - Glowing Ores Copper
 - Glowing Ores Copper Non-Full Block (Modded Only)
-- Copper Chains
+- Copper Chains - Vertical
 - Copper Full Blocks
 - Copper Non-Full Blocks
 - Copper Slabs and Stairs
@@ -363,7 +363,8 @@ block.10733-10843.properties:
 - Flower Pot - Subsurface Scattering, Flowers - Euphoria Patches Emissive Flowers
 - Jigsaw Block
 - Pitcther Crop
-- Chain
+- Chain - Horizontal
+- Chain - Vertical
 - Soul Sand
 - Soul Soil
 - Dried Kelp Blocks
